@@ -1,2 +1,4 @@
 *.pdf
 Downloads/
+.ipynb_checkpoints/
+*.deb
