@@ -1,2 +1,9 @@
-# web_scrape
-Some very basics (and hacky) code to scape product data sheets from web sites.
+# simple setup and scripts to pull pdfs from dynamic web pages
+
+## prerequisites
+
+1. Only tested on Linux AMD64
+2. Git installed
+
+` sudo apt install -y git-all`
+
